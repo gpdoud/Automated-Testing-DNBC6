@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingConsoleProject", "AutomatedTestingConsoleProject\AutomatedTestingConsoleProject.csproj", "{12E49F98-6E99-40AA-86ED-CD904463C9ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomatedTestingConsoleProject", "AutomatedTestingConsoleProject\AutomatedTestingConsoleProject.csproj", "{12E49F98-6E99-40AA-86ED-CD904463C9ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingLibraryProject", "AutomatedTestingLibraryProject\AutomatedTestingLibraryProject.csproj", "{F8E4BE01-D5A4-4EA3-95D1-7DD4BD200ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomatedTestingLibraryProject", "AutomatedTestingLibraryProject\AutomatedTestingLibraryProject.csproj", "{F8E4BE01-D5A4-4EA3-95D1-7DD4BD200ECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingProject", "AutomatedTestingProject\AutomatedTestingProject.csproj", "{88D01A49-81FF-49B5-A74F-8A7DD9C8602B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingMSTestProject", "AutomatedTestingMSTestProject\AutomatedTestingMSTestProject.csproj", "{27F2F15E-061F-4FA2-AB2A-55AC1A5854E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{F8E4BE01-D5A4-4EA3-95D1-7DD4BD200ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E4BE01-D5A4-4EA3-95D1-7DD4BD200ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E4BE01-D5A4-4EA3-95D1-7DD4BD200ECA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88D01A49-81FF-49B5-A74F-8A7DD9C8602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88D01A49-81FF-49B5-A74F-8A7DD9C8602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88D01A49-81FF-49B5-A74F-8A7DD9C8602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88D01A49-81FF-49B5-A74F-8A7DD9C8602B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F2F15E-061F-4FA2-AB2A-55AC1A5854E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F2F15E-061F-4FA2-AB2A-55AC1A5854E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F2F15E-061F-4FA2-AB2A-55AC1A5854E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F2F15E-061F-4FA2-AB2A-55AC1A5854E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
